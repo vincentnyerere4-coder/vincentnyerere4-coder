@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**vincentnyerere4-coder/vincentnyerere4-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Vincent Nyerere
 
-Here are some ideas to get you started:
+🎓 **BSc in IT @ CBE | Dar es Salaam, Tanzania**
+💻 Cyber Security & Programming | Ethical Hacker
+🚀 Mission: CBE Top 10 BIT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I Do
+- 🛡️ Cyber Security & Ethical Hacking
+- 💻 Web Development 
+- 📚 CBE BIT Projects
+- 🌱 Learning Advanced Programming
+
+### 🌐 My Links
+- 🌍 Website: https://chic-custard-ed28a0.netlify.app/
+- 📘 Facebook: Vincent.Maile.Nyerere
+- 📸 Instagram: @vin_maile
+- 📍 Dar es Salaam, Tanzania
+
+### 🎯 Goals 2026
+- [ ] CBE Top 10 BIT
+- [ ] Build 10+ Projects
+- [ ] Get First Client
+
+*From CBE to the World - Code, Secure, Impact*
