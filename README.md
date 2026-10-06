@@ -11,8 +11,8 @@
 - 📚 CBE BIT Projects
 - 🌱 Learning advanced programming 
 ### 🎓 Academic Journey
-- **Form Six Graduate** - Advanced Level
-- **UCC - Diploma in IT (March Intake)** - Completed Sem 1 UE in 6 Months
+- **Form Six Graduate** - Advanced Level(2024)
+- **University of Dar es salaam computing center UCC- Diploma in IT (March Intake)** - Completed Sem 1 UE in 6 Months
     - Business Communication: A | Networking: B | Architecture: B | Applied Maths: B | Programming: C
 - **CBE - BSc in IT** - Direct Entry from 26th [Present] - Dar
 - Fast-tracked from Diploma to Degree based on strong performance
